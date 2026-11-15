@@ -12,7 +12,8 @@ COPY . .
 RUN npm run build
 
 
-FROM nginx:alpine
+# Non-root nginx (uid 101, port 8080) so the pod can run under PSA restricted.
+FROM nginxinc/nginx-unprivileged:alpine
 
 COPY ./nginx/nginx.conf /etc/nginx/conf.d/default.conf
 

@@ -39,3 +39,4 @@ docker buildx build --platform linux/amd64 -t pokemon-scanner:latest .
 - [ ] Export as text (simple list, separated by `\n` if `.csv` files are undesireable)
 - [ ] TCGPlayer store integration (to increment your stock on the code cards automatically)
 - [ ] Export to Google Sheets button
+
