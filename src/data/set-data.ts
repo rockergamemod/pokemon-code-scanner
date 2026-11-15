@@ -2584,6 +2584,196 @@ export const rawData = [
 			symbol: 'https://images.pokemontcg.io/sv10/symbol.png',
 			logo: 'https://images.pokemontcg.io/sv10/logo.png'
 		}
+	},
+	{
+		id: 'zsv10pt5',
+		name: 'Black Bolt',
+		series: 'Scarlet & Violet',
+		printedTotal: 86,
+		total: 172,
+		legalities: {
+			unlimited: 'Legal',
+			standard: 'Legal',
+			expanded: 'Legal'
+		},
+		ptcgoCode: 'BLK',
+		releaseDate: '2025/07/18',
+		updatedAt: '2025/07/17 15:00:00',
+		images: {
+			symbol: 'https://images.pokemontcg.io/zsv10pt5/symbol.png',
+			logo: 'https://images.pokemontcg.io/zsv10pt5/logo.png'
+		}
+	},
+	{
+		id: 'rsv10pt5',
+		name: 'White Flare',
+		series: 'Scarlet & Violet',
+		printedTotal: 86,
+		total: 173,
+		legalities: {
+			unlimited: 'Legal',
+			standard: 'Legal',
+			expanded: 'Legal'
+		},
+		ptcgoCode: 'WHT',
+		releaseDate: '2025/07/18',
+		updatedAt: '2025/07/17 15:00:00',
+		images: {
+			symbol: 'https://images.pokemontcg.io/rsv10pt5/symbol.png',
+			logo: 'https://images.pokemontcg.io/rsv10pt5/logo.png'
+		}
+	},
+	{
+		id: 'me1',
+		name: 'Mega Evolution',
+		series: 'Mega Evolution',
+		printedTotal: 132,
+		total: 188,
+		legalities: {
+			unlimited: 'Legal',
+			standard: 'Legal',
+			expanded: 'Legal'
+		},
+		ptcgoCode: 'MEG',
+		releaseDate: '2025/09/26',
+		updatedAt: '2025/09/25 15:00:00',
+		images: {
+			symbol: 'https://images.pokemontcg.io/me1/symbol.png',
+			logo: 'https://images.pokemontcg.io/me1/logo.png'
+		}
+	},
+	{
+		id: 'me2',
+		name: 'Phantasmal Flames',
+		series: 'Mega Evolution',
+		printedTotal: 94,
+		total: 130,
+		legalities: {
+			unlimited: 'Legal',
+			standard: 'Legal',
+			expanded: 'Legal'
+		},
+		ptcgoCode: 'PFL',
+		releaseDate: '2025/11/14',
+		updatedAt: '2025/09/25 15:00:00',
+		images: {
+			symbol: 'https://images.pokemontcg.io/me2/symbol.png',
+			logo: 'https://images.pokemontcg.io/me2/logo.png'
+		}
+	},
+	{
+		id: 'me2pt5',
+		name: 'Ascended Heroes',
+		series: 'Mega Evolution',
+		printedTotal: 217,
+		total: 295,
+		legalities: {
+			unlimited: 'Legal',
+			standard: 'Legal',
+			expanded: 'Legal'
+		},
+		ptcgoCode: 'ASC',
+		releaseDate: '2026/01/30',
+		updatedAt: '2026/01/30 15:00:00',
+		images: {
+			symbol: 'https://images.scrydex.com/pokemon/me2pt5-symbol/symbol',
+			logo: 'https://images.scrydex.com/pokemon/me2pt5-logo/logo'
+		}
+	},
+	{
+		id: 'me3',
+		name: 'Perfect Order',
+		series: 'Mega Evolution',
+		printedTotal: 88,
+		total: 124,
+		legalities: {
+			unlimited: 'Legal',
+			standard: 'Legal',
+			expanded: 'Legal'
+		},
+		ptcgoCode: 'POR',
+		releaseDate: '2026/03/27',
+		updatedAt: '2026/003/26 15:00:00',
+		images: {
+			symbol: 'https://images.scrydex.com/pokemon/me3-symbol/symbol',
+			logo: 'https://images.scrydex.com/pokemon/me3-logo/logo'
+		}
+	},
+	{
+		id: 'me4',
+		name: 'Chaos Rising',
+		series: 'Mega Evolution',
+		printedTotal: 86,
+		total: 122,
+		legalities: {
+			unlimited: 'Legal',
+			standard: 'Legal',
+			expanded: 'Legal'
+		},
+		ptcgoCode: 'CRI',
+		releaseDate: '2026/05/22',
+		updatedAt: '2026/05/21 15:00:00',
+		images: {
+			symbol: 'https://images.scrydex.com/pokemon/me4-symbol/symbol',
+			logo: 'https://images.scrydex.com/pokemon/me4-logo/logo'
+		}
+	},
+	{
+		id: 'me5',
+		name: 'Pitch Black',
+		series: 'Mega Evolution',
+		printedTotal: 84,
+		total: 120,
+		legalities: {
+			unlimited: 'Legal',
+			standard: 'Legal',
+			expanded: 'Legal'
+		},
+		ptcgoCode: 'PBL',
+		releaseDate: '2026/07/17',
+		updatedAt: '2026/07/16 15:00:00',
+		images: {
+			symbol: 'https://images.scrydex.com/pokemon/me5-symbol/symbol',
+			logo: 'https://images.scrydex.com/pokemon/me5-logo/logo'
+		}
+	},
+	{
+		id: 'me55',
+		name: '30th Celebration',
+		series: 'Mega Evolution',
+		printedTotal: 128,
+		total: 161,
+		legalities: {
+			unlimited: 'Legal',
+			standard: 'Legal',
+			expanded: 'Legal'
+		},
+		ptcgoCode: '30C',
+		releaseDate: '2026/09/16',
+		updatedAt: '2026/09/14 15:00:00',
+		images: {
+			symbol: 'https://images.scrydex.com/pokemon/me55-symbol/symbol',
+			logo: 'https://images.scrydex.com/pokemon/me55-logo/logo'
+		}
+	},
+	{
+		id: 'me6',
+		name: 'Delta Reign',
+		series: 'Mega Evolution',
+		printedTotal: 103,
+		total: 141,
+		legalities: {
+			unlimited: 'Legal',
+			standard: 'Legal',
+			expanded: 'Legal'
+		},
+		ptcgoCode: 'DLR',
+		releaseDate: '2026/11/06',
+		updatedAt: '2026/11/06 15:00:00',
+		images: {
+			symbol: 'https://images.scrydex.com/pokemon/me6-symbol/symbol',
+			logo: 'https://images.scrydex.com/pokemon/me6-logo/logo'
+		}
 	}
 ] as const satisfies PokemonSet[];
 
