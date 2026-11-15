@@ -5,7 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"dev": "vite dev",
-		"docker": "docker buildx build --push --platform linux/amd64 -t registry.lab.rockergaming.com/pokemon/scanner:1.0.9 .",
+		"docker": "docker buildx build --push --platform linux/amd64 -t registry.lan.rockergaming.cloud/rockergamemod/pokemon-code-scanner:local .",
 		"build": "vite build",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''",
