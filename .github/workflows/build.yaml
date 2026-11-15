@@ -23,7 +23,9 @@ jobs:
         uses: docker/metadata-action@v6
         with:
           images: registry.cloud.rockergaming.com/${{ github.repository }}
+          # <run_number>-<sha7> is what Flux deploys (highest run number wins)
           tags: |
+            type=raw,value=${{ github.run_number }}-{{sha}}
             type=sha,format=long
             type=raw,value=${{ steps.version.outputs.version }}
             type=raw,value=latest,enable={{is_default_branch}}
